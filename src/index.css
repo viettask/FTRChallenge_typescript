@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#heading {
+  color: red;
+}
+
+#timing {
+  width: 70px;
+}
+
+#numberadded{
+  width:70px;
+}
+.content {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.enterBtn {
+  cursor:pointer;
+  margin-left: 10px;
+  width:85px;
+}
+
+.frame {
+  width:900px;
+  background: #eee;
+  margin-left: 40px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around; 
+  width:165px;
+  height: 200px;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.button {
+  background-color: SeaGreen; 
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: white; /* Green */
+  color: black;
+  border: 1px solid black;
+}
+
+.button:disabled,
+.button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.input {
+  height: 35px;
+}
+
+.title {
+  color: SeaGreen; 
+  font-weight: bold;
+}
+
+.warning {
+  color: red;
+  font-weight: 500;
+}
+
+.welcome {
+  color:SeaGreen;
+  font-weight: 500;
+}
