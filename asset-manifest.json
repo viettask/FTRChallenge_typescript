@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FTRChallenge_typescript/static/css/main.4159b51d.chunk.css",
+    "main.js": "/FTRChallenge_typescript/static/js/main.7ae85b94.chunk.js",
+    "main.js.map": "/FTRChallenge_typescript/static/js/main.7ae85b94.chunk.js.map",
+    "runtime-main.js": "/FTRChallenge_typescript/static/js/runtime-main.f49d001c.js",
+    "runtime-main.js.map": "/FTRChallenge_typescript/static/js/runtime-main.f49d001c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/FTRChallenge_typescript/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.07af942a.chunk.js": "/FTRChallenge_typescript/static/js/2.07af942a.chunk.js",
+    "static/js/2.07af942a.chunk.js.map": "/FTRChallenge_typescript/static/js/2.07af942a.chunk.js.map",
+    "index.html": "/FTRChallenge_typescript/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/FTRChallenge_typescript/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4159b51d.chunk.css.map": "/FTRChallenge_typescript/static/css/main.4159b51d.chunk.css.map",
+    "static/js/2.07af942a.chunk.js.LICENSE.txt": "/FTRChallenge_typescript/static/js/2.07af942a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f49d001c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.07af942a.chunk.js",
+    "static/css/main.4159b51d.chunk.css",
+    "static/js/main.7ae85b94.chunk.js"
+  ]
+}
